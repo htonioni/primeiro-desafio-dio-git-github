@@ -8,14 +8,50 @@ Este é o primeiro desafio da plataforma DIO:
 
 Ferramentas utilizadas para criação deste projeto:
 
-- Git Bash
-- GitHub
+- [**Git Bash**](###git-bash)
+- [**GitHub**](###github)
+
+
 
 
 
 ### **Git Bash**
 
 Os seguintes comandos foram utilizados no terminal do Git Bash:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### **GitHub**
+
+
+
+
+
+
+
+
+
+
+
+#### **Links Úteis**
+
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 
 
