@@ -12,15 +12,11 @@ Ferramentas utilizadas para criação deste projeto:
 - [**Typora**](###typora)
 - [**Links Úteis**](###links-úteis)
 
-
-
-
+</br>
 
 ## **Git Bash**
 
 O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git. Bash é acrônico para "Bourne Again Shell". Shells são aplicativos terminais usados como interface em sistemas operacionais por meio de comandos gravados. O Shell é o padrão popular no Linux e no macOS. O Git Bash é o pacote que instala o Bash, alguns utilitários de bash comuns e o Git nos sistemas operacionais Windows.
-
-
 
 **Comandos utilizados no terminal:**
 
@@ -32,7 +28,7 @@ O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a cam
 
 `git push origin main` : Enviar todos os Commits para a nuvem (remoto)
 
-
+</br>
 
 ## **Typora**
 
@@ -40,9 +36,7 @@ O Typora é um editor de texto multiplataforma incrivelmente simples e fácil qu
 
 **Simple, yet Powerful!**
 
-
-
-
+</br>
 
 ## **Links Úteis**
 
